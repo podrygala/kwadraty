@@ -1,0 +1,16 @@
+body {
+    background-color: #AAAAAA;
+}
+
+h1 {
+    color: #ffff;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: #FF9A0F;
+    display: block;
+    margin: 5px;
+
+}
